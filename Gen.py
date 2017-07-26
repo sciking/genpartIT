@@ -1,9 +1,9 @@
 import random
 def genpart():
  a = ["Alleanza", "Scelta", "Alternativa", "Avanti", "Lega", "Federazione"]
- b = ["Nord", "Nazionale", "Comunista", "Civica", "Popolare", "Padana", "della Famiglia", "Cristiana"]
+ b = ["Nord", "Europea", "Nazionale", "Comunista", "Civica", "Popolare", "Padana", "della Famiglia", "Cristiana"]
  c = ["Monti", "Berlusconi", "Alfano", "Berlusconi", "Bossi","Renzi","Vendola","Casini","Maroni"]
- d = ["l'Italia", "l'indipendenza della Padania", "la famiglia tradizionale", "l'Italia federale", "l'Europa unita"]
+ d = ["l'Italia", "l'anarco-capitalismo","l'indipendenza della Padania", "la famiglia tradizionale", "l'Italia federale", "l'Europa unita"]
  l = random.randint(1,4)
  g = len(a)-1
  k = len(b)-1
