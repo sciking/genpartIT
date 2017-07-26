@@ -1,0 +1,2 @@
+# genpartIT
+Generatore nomi partiti
